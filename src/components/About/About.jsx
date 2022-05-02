@@ -39,9 +39,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut eaque, minima 
-            labore praesentium libero modi ipsam? Rerum perferendis, soluta sequi suscipit 
-            id atque deleniti nesciunt accusantium, expedita ea magnam unde.
+            All my life ive had a passion for art and design as well as with different technologies and no better way to combine them, then
+            to create amazing UI's!
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's chat</a>
