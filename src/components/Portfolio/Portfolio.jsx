@@ -10,21 +10,21 @@ const Portfolio = () => {
       <div className='container portfolio__container'>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt="Web app" />
+            <img src={IMG1} alt="Hectorslibrary" />
           </div>
-          <h3>Web App</h3>
+          <h3>Hectors Library</h3>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="Web app" />
           </div>
-          <h3>Web App</h3>
+          <h3>Imua Athletics</h3>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="Web app" />
           </div>
-          <h3>Web App</h3>
+          <h3>Random Map Generator</h3>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
