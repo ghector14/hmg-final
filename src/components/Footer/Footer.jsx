@@ -4,8 +4,8 @@ import {FiGithub} from 'react-icons/fi';
 import {FiCodepen} from 'react-icons/fi';
 import {IoDiamondOutline} from 'react-icons/io5';
 import {FaLinkedinIn} from 'react-icons/fa';
+import {FaXTwitter} from "react-icons/fa6";
 import {BsInstagram} from 'react-icons/bs';
-import {BsTwitter} from 'react-icons/bs';
 
 const Footer = () => {
   return (
@@ -27,7 +27,7 @@ const Footer = () => {
         <a href="https://diamondapp.com/u/ghector14?feedTab=New"><IoDiamondOutline/></a>
         <a href="https://www.linkedin.com/in/hector-gomez-374a19158/"><FaLinkedinIn/></a>
         <a href="https://www.instagram.com/ghector14/"><BsInstagram/></a>
-        <a href="https://twitter.com/gomezhector62"><BsTwitter/></a>
+        <a href="https://twitter.com/gomezhector62"><FaXTwitter/></a>
       </div>
 
       <div className='footer__copyright'>
